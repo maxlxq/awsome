@@ -1,7 +1,11 @@
 ---
 nav:
-  title: Components
+  title: awsome-ui
   path: /components
+group:
+  path: /components/render
+  title: 纯Render组件
+  order: 4
 ---
 
 ## Foo
