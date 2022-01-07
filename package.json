@@ -2,6 +2,9 @@
   "private": true,
   "name": "awsome",
   "version": "1.0.0",
+  "workspaces": [
+    "packages/*"
+  ],
   "scripts": {
     "dev": "dumi dev",
     "start": "dumi dev",

@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "模版工具库 学习创造生产力",
   "author": "maxlxq <542168513@qq.com>",
-  "homepage": "",
+  "homepage": "https://github.com/maxlxq/awsome#readme",
   "license": "ISC",
   "main": "lib/index.js",
   "directories": {
@@ -15,5 +15,13 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxlxq/awsome.git"
   }
 }
