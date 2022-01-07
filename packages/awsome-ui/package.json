@@ -1,9 +1,9 @@
 {
 	"name": "awsome-ui",
-	"version": "1.0.0",
+	"version": "0.0.2",
 	"description": "> TODO: description",
 	"author": "maxlxq <542168513@qq.com>",
-  "homepage": "https://github.com/maxlxq/awsome#readme",
+	"homepage": "https://github.com/maxlxq/awsome#readme",
 	"license": "ISC",
 	"main": "lib/index.js",
 	"directories": {
