@@ -2,8 +2,8 @@
  * @Author: shizhi
  * @Date: 2022-01-06 23:49:23
  * @LastEditors: shizhi
- * @LastEditTime: 2022-01-07 23:03:52
- * @description: 
+ * @LastEditTime: 2022-01-08 01:18:39
+ * @description: 工具库
  */
 /// <reference path="../../../typings.d.ts" />
 
