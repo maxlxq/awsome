@@ -1,13 +1,13 @@
 {
   "name": "awsome-utils",
-  "version": "0.0.10",
+  "version": "0.0.12",
   "description": "模版工具库 学习创造生产力",
   "author": "maxlxq <542168513@qq.com>",
   "homepage": "https://github.com/maxlxq/awsome#readme",
   "license": "ISC",
-  "main": "es/index.js",
-  "module": "es/index.js",
-  "types": "es/index.d.ts",
+  "main": "lib/index.js",
+  "module": "lib/index.js",
+  "types": "lib/index.d.ts",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
