@@ -6,7 +6,7 @@
   "homepage": "https://github.com/maxlxq/awsome#readme",
   "license": "ISC",
   "main": "lib/index.js",
-  "module": "es/index.js",
+  "module": "lib/index.js",
   "types": "lib/index.d.ts",
   "directories": {
     "lib": "lib",
