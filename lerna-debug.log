@@ -1,0 +1,9 @@
+37 error Error: Command failed with exit code 1: git commit -F /private/var/folders/7r/8403zmxd7x5dcb3yp_mbqrzr0000gn/T/29b3b96a-45f7-4d6c-bbc8-bc36d8322d5f/lerna-commit.txt
+37 error 位于分支 master
+37 error 您的分支与上游分支 'origin/master' 一致。
+37 error
+37 error 无文件要提交，干净的工作区
+37 error     at makeError (/Users/maxlxq/github/awsome/node_modules/.pnpm/execa@5.1.1/node_modules/execa/lib/error.js:60:11)
+37 error     at handlePromise (/Users/maxlxq/github/awsome/node_modules/.pnpm/execa@5.1.1/node_modules/execa/index.js:118:26)
+37 error     at processTicksAndRejections (internal/process/task_queues.js:93:5)
+37 error     at async Promise.all (index 0)

@@ -13,8 +13,7 @@
     "test": "__tests__"
   },
   "files": [
-    "lib",
-    "es"
+    "lib"
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
