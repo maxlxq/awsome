@@ -4,8 +4,19 @@
 
 ## Usage
 
+```shell
+yarn add awsome-utils
 ```
-const awsomeUtils = require('awsome-utils');
 
-// TODO: DEMONSTRATE API
+```tsx
+import React from 'react';
+import { thousandFormat } from 'awsome-utils';
+
+export default () => {
+  return (
+    <div>
+      <span>{thousandFormat(12312312)}</span>
+    </div>
+  )
+}
 ```
