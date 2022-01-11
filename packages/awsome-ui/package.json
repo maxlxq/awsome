@@ -5,13 +5,15 @@
 	"author": "maxlxq <542168513@qq.com>",
 	"homepage": "https://github.com/maxlxq/awsome#readme",
 	"license": "ISC",
-	"main": "lib/index.js",
+	"main": "es/index.js",
+  "module": "es/index.js",
+  "types": "es/index.d.ts",
 	"directories": {
-		"lib": "lib",
+		"lib": "es",
 		"test": "__tests__"
 	},
 	"files": [
-		"lib"
+		"es"
 	],
 	"publishConfig": {
 		"access": "public",
